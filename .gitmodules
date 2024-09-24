@@ -4,3 +4,6 @@
 [submodule "fe"]
 	path = fe
 	url = git@github.com:hrustalq/booking_fe.git
+[submodule "tg-bot"]
+	path = tg-bot
+	url = git@github.com:hrustalq/booking_tg-bot.git
