@@ -1,3 +1,6 @@
 [submodule "booking_be"]
 	path = booking_be
 	url = git@github.com:hrustalq/booking_be.git
+[submodule "booking_fe"]
+	path = booking_be
+	url = git@github.com:hrustalq/booking_fe.git
